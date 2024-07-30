@@ -1,7 +1,5 @@
 # Cricket-ScoreSheet
 
-# CricketStatsManager
-
 CricketStatsManager is a command-line application designed for tracking and managing cricket match statistics. It allows users to input and view detailed statistics for both batsmen and bowlers. The program is ideal for cricket enthusiasts, coaches, and analysts who need to keep track of player performance during a match.
 
 ## Features
